@@ -1,0 +1,15 @@
+
+
+#buttons-colors, #buttons-tags, #buttons-hide {
+    padding: 3rem;
+    border: 1px solid black;
+    background-color: white;
+    width: fit-content;
+}
+
+#hidemessage {
+    visibility: hidden;
+    padding: 2rem;
+    border: 1px solid black;
+    background-color: rgb(212, 212, 212);
+}
